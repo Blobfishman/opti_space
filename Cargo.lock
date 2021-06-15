@@ -87,6 +87,7 @@ name = "opti_space"
 version = "0.1.0"
 dependencies = [
  "csv",
+ "num-traits",
  "stl_io",
 ]
 
